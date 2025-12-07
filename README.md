@@ -48,10 +48,10 @@ This demonstrates strong skills in:
 Ideal for Python Backend Developer & Full Stack Developer roles.
 
 📁 Project Structure
-employee-salary-validator/
-│── main.py
-│── cleaned_employee_data.csv   (auto-generated)
-│── README.md 
+                                                                              employee-salary-validator/
+                                                                                │── main.py
+                                                                                 │── cleaned_employee_data.csv   (auto-generated)
+                                                                                  │── README.md 
 
 Full Code (main.py)
 
