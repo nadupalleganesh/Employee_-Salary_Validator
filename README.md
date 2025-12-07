@@ -3,8 +3,8 @@ A clean and powerful NumPy + Pandas mini-project that validates employee data, r
 Perfect for backend roles that require Python, data processing, validation logic, and real-world data cleaning skills.
 
 🚀 Tech Stack
-Python 3
-NumPy
+Python 3,
+NumPy,
 Pandas
 
 🎯 Project Overview
@@ -108,10 +108,10 @@ Priya	                      HR	             -45000	                          3
 Sneha                     	Finance	          None	                          1
 
 ✔ After Cleaning
-Negative salary → Converted to NaN
-Missing salary → Removed
-Missing experience → Auto-filled using mean
-Yearly salary column added   
+a.Negative salary → Converted to NaN
+b.Missing salary → Removed
+c.Missing experience → Auto-filled using mean
+d.Yearly salary column added   
 
 📦 Installation & Run
 1️⃣ Install Dependencies
@@ -125,7 +125,7 @@ A cleaned CSV file is generated automatically:
 cleaned_employee_data.csv
 
 ⭐ Future Enhancements
-Add API endpoint for uploading CSV
-Return validation errors as JSON
-Integrate with Django REST API
-Visualize salary distribution
+a.Add API endpoint for uploading CSV
+b.Return validation errors as JSON
+c.Integrate with Django REST API
+d.Visualize salary distribution
