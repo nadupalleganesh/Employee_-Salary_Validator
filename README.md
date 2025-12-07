@@ -125,7 +125,7 @@ A cleaned CSV file is generated automatically:
 cleaned_employee_data.csv
 
 ⭐ Future Enhancements
-a.Add API endpoint for uploading CSV
-b.Return validation errors as JSON
-c.Integrate with Django REST API
-d.Visualize salary distribution
+*Add API endpoint for uploading CSV
+*Return validation errors as JSON
+*Integrate with Django REST API
+*Visualize salary distribution
